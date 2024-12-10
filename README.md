@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Open source Full-stack Next.js and TypeScript application for GitHub users to discuss development topics.
+
+Key Features:
+- Authentication with NextAuth
+- Server actions implemented using TypeScript
+- Database queries for efficient data retrieval
+- Caching with request memoization for optimized performance
+- Search functionality to easily find content
+- Ability to create topics, posts, and comments all written in TypeScript
+Full-stack Next.js and TypeScript application for GitHub users to discuss development topics. Key Features: - Authentication with NextAuth - Server actions implemented using TypeScript - Database queries for efficient data retrieval - Caching with request memoization for optimized performance - Search functionality to easily find content - Ability to create topics, posts, and comments all written in TypeScript
+
+
 ## Getting Started
 
 First, run the development server:
